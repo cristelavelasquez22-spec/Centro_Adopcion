@@ -33,6 +33,7 @@ Herramientas: Tilix, Git.
  Catalogo
  <img width="1279" height="755" alt="Captura desde 2026-04-09 09-10-59" src="https://github.com/user-attachments/assets/e73ee4f3-d093-457e-a68c-e1a4af3ac7cf" />
 
+Este proyecto representa una solución integral y simplificada para la digitalización de refugios de animales. Al centralizar la información en una arquitectura Flask-MySQL, el sistema no solo optimiza el tiempo administrativo, sino que también mejora las oportunidades de las mascotas al mantener un control riguroso de su disponibilidad. Es una base sólida y escalable, lista para integrar futuras funcionalidades como galerías fotográficas, reportes estadísticos o sistemas de citas para adoptantes.
 
 
 
