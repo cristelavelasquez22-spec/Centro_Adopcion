@@ -19,7 +19,7 @@ Lenguaje:** Python
 Framework Web: Flask
 Base de Datos: MySQL
 Frontend: HTML5, CSS3, Bootstrap
-Herramientas: Tilix, Git
+Herramientas: Tilix, Git.
 
  formulario para adoptantes!
 <img width="1332" height="754" alt="Captura desde 2026-03-27 10-35-04" src="https://github.com/user-attachments/assets/e5bd3b30-168e-44ce-8c4e-c84bb3981a2c" />
